@@ -1,0 +1,7 @@
+pyswisseph
+discord.py
+pytz
+numpy
+matplotlib
+python-dotenv
+reportlab
