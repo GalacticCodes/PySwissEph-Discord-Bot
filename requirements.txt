@@ -4,3 +4,4 @@ numpy
 matplotlib
 python-dotenv
 reportlab
+./pyswisseph-2.10.3.2-cp311-cp311-musllinux_1_1_x86_64.whl
