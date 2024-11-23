@@ -1,7 +1,8 @@
-discord.py
-pytz
-numpy
-matplotlib
-python-dotenv
-reportlab
+discord.py==2.1.0
+pytz==2023.3
+numpy==1.26.0
+matplotlib==3.8.2
+python-dotenv==1.0.0
+reportlab==4.0.4
 ./pyswisseph-2.10.3.2-cp311-cp311-musllinux_1_1_x86_64.whl
+
