@@ -1,4 +1,4 @@
 PySwissEph-Discord-Bot 
 
-Astroloical Chart Calculator
+Astrological Chart Calculator
 
